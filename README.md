@@ -1,6 +1,4 @@
-# NYU Shell (nyush)
-
-NYU Shell (nyush) is a simple Unix shell program written in C. It demonstrates basic shell functionalities including executing commands, handling signals, and managing processes.
+A simple Unix shell program written in C. It demonstrates basic shell functionalities including executing commands, handling signals, and managing processes.
 
 ## Features
 
